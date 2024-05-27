@@ -10,7 +10,7 @@ import json
 
 token = (BOT_TOKEN)
 
-bot_id = app.bot_token.split("6981600680:AAFP15w3KAuF9RBoNiULpXG00wUFRhjwusc")[0]
+bot_id = app.bot_token.split("6981600680:AAG62DpOIBgYizkVKzyhKjwCe7PuzIiRBBQ")[0]
 dev_owner = int(6236388211)
 owner = (OWNER_ID)
 
